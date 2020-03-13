@@ -2,8 +2,12 @@
 Automatically reload while dependencies/statics modified , debugtoolbar included.
 
 - Based on watchdog.
-- [aiohttp-debugtoolbar](https://github.com/aio-libs/aiohttp-debugtoolbar) included.
 - Works on Python3.7+
+- [aiohttp-debugtoolbar](https://github.com/aio-libs/aiohttp-debugtoolbar) included ,thus you can get a full report of traceback if exception raised.
+
+*(\* Screenshot from [aio-libs/aiohttp-debugtoolbar](https://github.com/aio-libs/aiohttp-debugtoolbar\)\*)*
+![](https://github.com/GoodManWEN/aiohttp-debugmode/blob/master/screenshots/aiohttp_debugtoolba_sceenshot.png)
+![](https://github.com/GoodManWEN/aiohttp-debugmode/blob/master/screenshots/carbon.png)
 
 ## Install
 

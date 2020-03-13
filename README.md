@@ -1,5 +1,5 @@
 # aiohttp-debugmode
-Automatically reload while dependencies/statics modified , debugtoolbar included.
+This package helps you easily start a aiohttp develpment server in subprocess ,everytime dependencies/statics are modified ,daemon process will automatically reload server thus helps you automation your workflow. Aiohttp-debugtoolbar included.
 
 [![fury](https://img.shields.io/pypi/v/aiohttp-debugmode.svg)](https://badge.fury.io/py/aiohttp-debugmode)
 [![licence](https://img.shields.io/github/license/GoodManWEN/aiohttp-debugmode)](https://github.com/GoodManWEN/aiohttp-debugmode/blob/master/LICENSE)

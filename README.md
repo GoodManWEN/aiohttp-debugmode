@@ -17,7 +17,7 @@ Automatically reload while dependencies/statics modified , debugtoolbar included
 
 ## Install
 
-    not uploaded yet
+    pip install aiohttp-debugmode
 
 ## Usage
 

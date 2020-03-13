@@ -1,13 +1,19 @@
 # aiohttp-debugmode
 Automatically reload while dependencies/statics modified , debugtoolbar included.
 
+[![fury](https://img.shields.io/pypi/v/aiohttp-debugmode.svg)](https://badge.fury.io/py/aiohttp-debugmode)
+[![licence](https://img.shields.io/github/license/GoodManWEN/aiohttp-debugmode)](https://github.com/GoodManWEN/aiohttp-debugmode/blob/master/LICENSE)
+[![pyversions](https://img.shields.io/pypi/pyversions/aiohttp-debugmode.svg)](https://pypi.org/project/aiohttp-debugmode/)
+[![Publish](https://github.com/GoodManWEN/aiohttp-debugmode/workflows/Publish/badge.svg)](https://github.com/GoodManWEN/aiohttp-debugmode/actions?query=workflow%3APublish)
+[![build](https://github.com/GoodManWEN/aiohttp-debugmode/workflows/Build/badge.svg)](https://github.com/GoodManWEN/aiohttp-debugmode/actions?query=workflow%3ABuild)
+
 - Based on watchdog.
 - Works on Python3.7+
 - [aiohttp-debugtoolbar](https://github.com/aio-libs/aiohttp-debugtoolbar) included ,thus you can get a full report of traceback if exception raised.
 
 ![](https://github.com/GoodManWEN/aiohttp-debugmode/blob/master/screenshots/carbon.png)
 ![](https://github.com/GoodManWEN/aiohttp-debugmode/blob/master/screenshots/aiohttp_debugtoolba_sceenshot.png)
-*(\* Screenshot from [aio-libs/aiohttp-debugtoolbar](https://github.com/aio-libs/aiohttp-debugtoolbar)\*)*
+*(\* Screenshot from [aio-libs/aiohttp-debugtoolbar](https://github.com/aio-libs/aiohttp-debugtoolbar) \*)*
 
 ## Install
 

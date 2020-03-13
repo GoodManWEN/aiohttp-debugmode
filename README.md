@@ -58,6 +58,9 @@ Debugmode.on_startup(stup) # accepts callable.
 Assume that you are usiung vue-cli and have a directory structure like this:
 ```
 /Project
+..../static
+..../templates
+....app.py                   # aiohttp app entry.
 ..../frontend                # vue frontend folder
 ......../dist                # webpack output directory
 ............/css
@@ -66,9 +69,6 @@ Assume that you are usiung vue-cli and have a directory structure like this:
 ......../node_modules
 ......../src                 # vue source
 ........vue.config.js
-..../static
-..../templates
-....app.py                   # aiohttp app entry.
 ```
 Assume that webpack outputs built file into `/Project/frontend/dist` floder while your aiohttp app collects templates & statics from `/Project/templates` & `/Project/static` folder.
 

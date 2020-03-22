@@ -69,14 +69,14 @@ Assume that you are usiung vue-cli and have a directory structure like this:
 │   ├── templates
 │   ├── app.py               # aiohttp app entry
 │   └── frontend             # vue frontend folder
-|       ├── dist             # webpack output directory
-|       |   ├── css
-|       |   ├── js
-|       |   └── index.html
-|       ├── node_modules
-|       |   └── ...
-|       ├── src              # vue source
-|       |   └── ...
+│       ├── dist             # webpack output directory
+│       │   ├── css
+│       │   ├── js
+│       │   └── index.html
+│       ├── node_modules
+│       │   └── ...
+│       ├── src              # vue source
+│       │   └── ...
 │       └── vue.config.js
 │   └── ...
 ```
